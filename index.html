@@ -4,11 +4,20 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./styles/styles.css" />
+    <script src="https://cdn.tailwindcss.com"></script>
     <title>Alura geek</title>
   </head>
   <body>
-    <h1>Hola mundo</h1>
+    <header class="w-full flex items-center justify-center p-4">
+      <img src="./assets/logo.svg" alt="Logo Laura Geek" />
+      <input
+        type="search"
+        class="hidden border-2 border-teal-300 md:block"
+        placeholder="Buscar ..."
+      />
+      <button class="border-4 border-blue-600 px-10 py-2">Login</button>
+      <img src="./assets/search.svg" alt="Search" />
+    </header>
 
     <script src="./js/index.js"></script>
   </body>
