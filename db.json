@@ -1,5 +1,130 @@
 {
   "producto": [
-    
+    {
+      "name": "Producto XYZ",
+      "imageUrl": "https://raw.githubusercontent.com/JosafatJimenezB/AluraGeek-Challenge/main/assets/stormtrooper-mug.jpg",
+      "price": "60.00",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 4
+    },
+    {
+      "name": "Producto XYZ",
+      "imageUrl": "https://raw.githubusercontent.com/JosafatJimenezB/AluraGeek-Challenge/main/assets/vader-pilot-lego.jpg",
+      "price": "60.00",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 3
+    },
+    {
+      "name": "Producto XYZ",
+      "imageUrl": "https://raw.githubusercontent.com/JosafatJimenezB/AluraGeek-Challenge/main/assets/yoda-statue.jpg",
+      "price": "60.00",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 5
+    },
+    {
+      "name": "Producto XYZ",
+      "imageUrl": "https://raw.githubusercontent.com/JosafatJimenezB/AluraGeek-Challenge/main/assets/stormtrooper-figure.jpg",
+      "price": "60.00",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 6
+    },
+    {
+      "name": "Producto XYZ",
+      "imageUrl": "https://raw.githubusercontent.com/JosafatJimenezB/AluraGeek-Challenge/main/assets/baby-yoda.jpg",
+      "price": "60.00",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 7
+    },
+    {
+      "name": "Producto XYZ",
+      "imageUrl": "https://raw.githubusercontent.com/JosafatJimenezB/AluraGeek-Challenge/main/assets/kylo-figure.jpg",
+      "price": "60.00",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 8
+    },
+    {
+      "name": "Producto XYZ",
+      "imageUrl": "https://raw.githubusercontent.com/JosafatJimenezB/AluraGeek-Challenge/main/assets/xbox-one-white-controller.jpg",
+      "price": "60.00",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 9
+    },
+    {
+      "name": "Producto XYZ",
+      "imageUrl": "https://raw.githubusercontent.com/JosafatJimenezB/AluraGeek-Challenge/main/assets/pink-clock-radio.jpg",
+      "price": "60.00",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 10
+    },
+    {
+      "name": "Producto XYZ",
+      "imageUrl": "https://raw.githubusercontent.com/JosafatJimenezB/AluraGeek-Challenge/main/assets/nes-console.jpg",
+      "price": "60.00",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 11
+    },
+    {
+      "name": "Producto XYZ",
+      "imageUrl": "https://raw.githubusercontent.com/JosafatJimenezB/AluraGeek-Challenge/main/assets/switch-controllers.jpg",
+      "price": "60.00",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 12
+    },
+    {
+      "name": "Producto XYZ",
+      "imageUrl": "https://raw.githubusercontent.com/JosafatJimenezB/AluraGeek-Challenge/main/assets/xbox-one.jpg",
+      "price": "60.00",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 13
+    },
+    {
+      "name": "Producto XYZ",
+      "imageUrl": "https://raw.githubusercontent.com/JosafatJimenezB/AluraGeek-Challenge/main/assets/gameboy.jpg",
+      "price": "60.00",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 14
+    },
+    {
+      "name": "Producto XYZ",
+      "imageUrl": "https://raw.githubusercontent.com/JosafatJimenezB/AluraGeek-Challenge/main/assets/atari-shirt.jpg",
+      "price": "60.00",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 15
+    },
+    {
+      "name": "Producto XYZ",
+      "imageUrl": "https://raw.githubusercontent.com/JosafatJimenezB/AluraGeek-Challenge/main/assets/nes-shirt.jpg",
+      "price": "60.00",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 16
+    },
+    {
+      "name": "Producto XYZ",
+      "imageUrl": "https://raw.githubusercontent.com/JosafatJimenezB/AluraGeek-Challenge/main/assets/sonic-tails-statue.jpg",
+      "price": "60.00",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 17
+    },
+    {
+      "name": "Producto XYZ",
+      "imageUrl": "https://raw.githubusercontent.com/JosafatJimenezB/AluraGeek-Challenge/main/assets/pink-clock-radio.jpg",
+      "price": "60.00",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 18
+    },
+    {
+      "name": "Producto XYZ",
+      "imageUrl": "https://raw.githubusercontent.com/JosafatJimenezB/AluraGeek-Challenge/main/assets/ps-vr.jpg",
+      "price": "60.00",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 19
+    },
+    {
+      "name": "Producto XYZ",
+      "imageUrl": "https://raw.githubusercontent.com/JosafatJimenezB/AluraGeek-Challenge/main/assets/pikachu-plush.jpg",
+      "price": "60.00",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 20
+    }
   ]
 }
