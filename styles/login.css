@@ -1,0 +1,41 @@
+main {
+  background: rgb(245, 245, 245);
+  padding: 16px;
+}
+
+.login {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr;
+  place-items: center;
+}
+
+.login-form{
+  width: 100%;
+  max-width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  row-gap: 1rem;
+  flex-direction: column;
+}
+
+.login_title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.login_input {
+  max-width: 350px;
+  padding: .8rem 3rem;
+  outline: none;
+  border: none;
+}
+
+.login_btn {
+  width: 45%;
+  height: 51px;
+  background: #2a7ae4;
+  color: #ffffff; 
+}
+

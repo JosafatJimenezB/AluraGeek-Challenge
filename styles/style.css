@@ -1,0 +1,210 @@
+/*---------------Variaveis---------------*/
+
+:root {
+  --bg-color: #ebebeb;
+  --input-placeholder: #d4d4d4;
+  --input-bg: #efefef;
+  --texto-destaque: #ffff;
+  --azul-destaque: #2a7ae4;
+  --bg-contacto: #eaf2fd;
+  font-family: "Releway", sans-serif;
+}
+
+/*---------------Normaliza - Reset-CSS---------------*/
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Releway", sans-serif;
+  background-color: var(--bg-color);
+  scroll-behavior: smooth;
+}
+
+/*---------------Padrão de projeto---------------*/
+
+ textarea:focus,
+input:focus {
+  box-shadow: 0 0 0 0;
+  border: 0 none;
+  outline: 0;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: var(--input-placeholder);
+  padding: 2%;
+}
+
+a {
+  text-decoration: none;
+  color: var(--azul-destaque);
+  font-weight: 800;
+  font-family: "Releway", sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
+
+/*---------------Header---------------*/
+
+header {
+  padding: 30px;
+  background-color: var(--texto-destaque);
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+.logo-busqueda {
+  width: 601px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img{
+  width: 150px;
+  height: 30px;
+}
+
+.logo p {
+  font-size: 26px;
+  font-weight: bolder;
+}
+
+.logo .logo-azul {
+  margin-left: 10px;
+  color: var(--azul-destaque);
+}
+
+.logo-busqueda input {
+  margin-left: 10%;
+  width: 393px;
+  border-radius: 1.3em;
+  padding: .6rem 2rem;
+  border: none;
+  background-color: var(--input-bg);
+}
+
+.login {
+  width: 600px;
+  display: flex;
+  justify-content: end;
+}
+
+.login button {
+  padding: .5rem 2rem;
+  background: none;
+  border: solid 1px var(--azul-destaque);
+  color: var(--azul-destaque);
+  text-transform: uppercase;
+  transition: all .3s ease-in-out;
+}
+
+.login button:hover {
+  background-color: var(--azul-destaque);
+  color: var(--texto-destaque);
+}
+
+/*---------------Formulario Footer---------------*/
+
+.contacto {
+  background-color: var(--bg-contacto);
+  display: flex;
+  height: auto;
+  justify-content: center;
+  padding: 64px 0;
+}
+
+.referencia {
+  display: flex;
+  width: 350px;
+  margin: 20px 0 0 0;
+}
+
+.referencia img {
+  width: 150px;
+  height: 30px;
+}
+
+.img-crud {
+  width: 250px;
+  height: 200px;
+}
+
+.referencia p {
+  font-size: 26px;
+  font-weight: bolder;
+  color: var(--azul-destaque);
+  margin-top: 5px;
+  margin-left: 6px;
+}
+
+.links-utiles {
+  display: flex;
+  flex-direction: column;
+  line-height: 40px;
+  width: 200px;
+  margin-right: 100px;
+}
+
+.links-utiles a {
+  color: black;
+  font-weight: normal;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 500px;
+}
+
+.form p {
+  font-weight: bolder;
+}
+
+.form input {
+  width: 475px;
+  max-width: 450px;
+  padding: 1rem;
+  border: transparent;
+  margin-bottom: 20px;
+  color: var(--azul-destaque);
+}
+
+.form input:hover {
+  border-bottom: solid 2px var(--azul-destaque);
+  transition: linear 1s;
+}
+
+.form textarea {
+  width: 100%;
+  max-width: 450px;
+  padding: 1rem ;
+  font-family: "Relaway", sans-serif;
+  border: transparent;
+  color: var(--azul-destaque);
+  margin-bottom: 1rem;
+}
+
+.form button {
+  background-color: var(--azul-destaque);
+  border: none;
+  color: var(--texto-destaque);
+  height: 51px;
+  width: 180px;
+}
+
+
